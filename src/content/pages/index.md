@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Bryce Kowalczyk
+tagline: Software Engineer
+featuredImage: /assets/profilepic.png
 cta:
-  ctaText: Know more
+  ctaText: Learn more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+He currently specializes in robotic devlopment for autonomous and tele-operated vehicles at Applied Reseaerch Associates, Inc. while also as serving as the Technical Contractor for the Vybe Social app.

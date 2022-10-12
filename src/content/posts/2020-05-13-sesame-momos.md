@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Sesame Momos & Gaming
+title: Binary Star System Analysis
 slug: /sesame-momos
 date: 2020-05-13 12:47
-description: Sesame Momos
-featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
+description: Using light curve folding and transformatins to discover the nature of Binary Star System UX Ursae Majoris
+featuredImage: /assets/binary-star.jpg
 ---
 
-Sesame Momos
+
