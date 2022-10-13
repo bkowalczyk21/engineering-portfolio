@@ -14,7 +14,7 @@ const SEO = ({ title, description, image, article }) => {
     defaultDescription,
     siteUrl,
     defaultImage,
-    twitterUsername,
+    //twitterUsername,
   } = site.siteMetadata
 
   const seo = {
@@ -47,20 +47,6 @@ const SEO = ({ title, description, image, article }) => {
       )}
 
       {seo.image && <meta property="og:image" content={seo.image} />}
-
-      <meta name="twitter:card" content="summary_large_image" />
-
-      {twitterUsername && (
-        <meta name="twitter:creator" content={twitterUsername} />
-      )}
-
-      {seo.title && <meta name="twitter:title" content={seo.title} />}
-
-      {seo.description && (
-        <meta name="twitter:description" content={seo.description} />
-      )}
-
-      {seo.image && <meta name="twitter:image" content={seo.image} />}
     </Helmet>
   )
 }
@@ -90,8 +76,21 @@ const query = graphql`
         defaultDescription: description
         siteUrl: siteUrl
         defaultImage: image
-        twitterUsername
       }
     }
   }
 `
+
+/*<meta name="twitter:card" content="summary_large_image" />
+
+{twitterUsername && (
+  <meta name="twitter:creator" content={twitterUsername} />
+)}
+
+{seo.title && <meta name="twitter:title" content={seo.title} />}
+
+{seo.description && (
+  <meta name="twitter:description" content={seo.description} />
+)}
+
+{seo.image && <meta name="twitter:image" content={seo.image} />}*/
