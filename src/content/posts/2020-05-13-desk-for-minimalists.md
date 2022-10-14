@@ -4,7 +4,7 @@ title: Horn Antenna Theoretical Radiation
 slug: /minimalists-desk
 date: 2020-05-13 12:46
 description: sdasd
-featuredImage: /assets/3d-output.png
+featuredImage: /assets/3d-output-sized.png
 ---
 
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
