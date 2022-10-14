@@ -2,7 +2,7 @@
 template: blog-post
 title: Revolutionary Social Media
 slug: /character-design
-date: 2022-05-23 23:40
+date: 2020-05-13 23:40
 description: A revolutionary social media platform giving the user control of their feeds
 featuredImage: /assets/vybe-logo-sized.jpg
 ---

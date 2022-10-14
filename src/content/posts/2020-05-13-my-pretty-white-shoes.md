@@ -2,7 +2,7 @@
 template: blog-post
 title: Blutooth Solutions For Remote Photography
 slug: /gaming-extravaganza
-date: 2021-08-02 12:55
+date: 2020-05-13 12:55
 description: Developing an iOS app for controlling settings via bluetooth on remote camera triggers for professional photography.
 featuredImage: /assets/bluetooth-sized.jpg
 ---

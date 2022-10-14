@@ -2,7 +2,7 @@
 template: blog-post
 title: CocoaNEC For Theoretical RF Fields
 slug: /minimalists-desk
-date: 2018-08-13 12:46
+date: 2020-05-13 12:46
 description: sdasd
 featuredImage: /assets/3d-output-sized.png
 ---
