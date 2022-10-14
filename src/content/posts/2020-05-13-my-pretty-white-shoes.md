@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Mobile Triggers From a Distance
+title: Bluetooth Solutions For Remote Photohrapgy
 slug: /gaming-extravaganza
 date: 2020-05-13 12:55
 description: Developing an iOS app for controlling settings via bluetooth on remote camera triggers for professional photography.

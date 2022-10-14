@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Horn Antenna Theoretical Radiation
+title: ConcoaNEC For Radiation Models
 slug: /minimalists-desk
 date: 2020-05-13 12:46
 description: sdasd
