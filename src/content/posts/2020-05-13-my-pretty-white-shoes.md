@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Mobile Triggers From a Distance
+title: Blutooth Solutions For Remote Photography
 slug: /gaming-extravaganza
-date: 2020-05-13 12:55
+date: 2021-08-02 12:55
 description: Developing an iOS app for controlling settings via bluetooth on remote camera triggers for professional photography.
-featuredImage: /assets/pw-control.jpeg
+featuredImage: /assets/bluetooth-sized.jpg
 ---
 
 As a part time devleoper for [PocketWizard](https://pocketwizard.com) I created a full-stack iOS
