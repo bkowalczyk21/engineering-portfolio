@@ -4,9 +4,13 @@ slug: /about
 title: About Bryce
 ---
 
-What's up stokers?! Welcome to my page where I get to spew about myself because I understand a little bit of of JavaScript and Markdow.
+ Welcome fellow software, mathematics and engineering enthusiastists!
 
- I'm Bryce Kowalczyk, a current Software Engineer at Applied Research Associates, Inc. Software Contractor at Vybe Social, LLC. and Colgate University CS/Math alumni.
+ I'm Bryce Kowalczyk, a current Software Engineer at Applied Research Associates, Inc., Software Contractor at Vybe Social, LLC, and Colgate University CS/Mathematics alumni.
+
+ My passion for technlogy and the "hard" sciences have taken me down a paths from mobile application development to debugging firmware assembly code to replacing linear actuators in USG restricted areas and everything in between. I havve had the pleasure of working with sales teams, electrical engineers, mechanical engineers, product managers, and even government officials. Some projects have involved learning brand new languages, debugging complex systems in high pressure envrionments and teaching new team members the ropes of our code bases. 
+
+ These days the languages I use the most are Swift, C++, Java and C# but I occasionally get to dabble with Python still. Beyond that, I have been doused with Linux CLI, NixOS, Xamarin.iOS, ROS, XCode, Qt, Docker, AWS, CI/CD, CAN and Ubuntu. 
 
  The follwing is my inspiration for what I do.
 
