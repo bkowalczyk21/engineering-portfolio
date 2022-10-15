@@ -11,7 +11,7 @@ featuredImage: /assets/vybe-logo-sized.jpg
 
 ![Vybe Homepage](/assets/vybe-home-surf.gif "Vybe Homepage")
 
-<div className="grids col-1 sm-2 lg-3">
+<div className="grids col-2 sm-2 lg-3">
   <img src="/assets/vybe-home-surf.gif"/>
   <img src="/assets/vybe-create-post-short.gif"/>
 </div>
