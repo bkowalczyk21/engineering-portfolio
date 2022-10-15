@@ -7,6 +7,12 @@ description: Developing an iOS app for controlling settings via bluetooth on rem
 featuredImage: /assets/bluetooth-sized.png
 ---
 
+![Device List](/assets/pw-homepage.jpeg "Device List")
+
+![Device Control](/assets/pw-control.jpeg "Device Control")
+
+![OTA Update](/assets/pw-ota-update.png "OTA Update")
+
 As a part time devleoper for [PocketWizard](https://pocketwizard.com) I created a full-stack iOS
 application for controlling mode, frequency, and tamper settings on their latest radio trigger prototype over 
 Bluetooth Low Energy. Each trigger would be placed on professional cameras placed around anywhere within 
