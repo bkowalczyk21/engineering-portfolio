@@ -32,20 +32,29 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         gfm: true,
         plugins: [
           netlifyCmsPaths,
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 1024,
-              showCaptions: true,
-              linkImagesToOriginal: false,
-              tracedSVG: true,
-              loading: "lazy",
+        {
+          resolve: "gatsby-remark-images-grid",
+          options: {
+              className: "myCustomClassName",
+              gridGap: "20px",
+              margin: "20px auto",
+          },
+        },
+        {
+          resolve: `gatsby-remark-images`,
+          options: {
+            maxWidth: 1024,
+            showCaptions: true,
+            linkImagesToOriginal: false,
+            tracedSVG: true,
+            loading: "lazy",
             },
           },
           {
