@@ -76,6 +76,9 @@ const Post = ({ data, pageContext }) => {
     : ""
   const { previous, next } = pageContext
 
+  const ChildImage = frontmatter.image1
+  const ChildImage2 = frontmatter.image2
+
   let props = {
     previous,
     next,
@@ -107,7 +110,6 @@ const Post = ({ data, pageContext }) => {
             ""
           )}
         </header>
-
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -133,7 +135,7 @@ export const pageQuery = graphql`
         description
         featuredImage {
           childImageSharp {
-            gatsbyImageData(layout: FULL_WIDTH)
+            gatsbyImageData(layout: CONSTRAINED, width: 345, height: 260)
           }
         }
       }
