@@ -11,6 +11,11 @@ featuredImage: /assets/3d-output-sized.png
 
 ![Wire Model](/assets/wire-model.png "Wire Model")
 
+```grid|2|Hone Antenna Outputs!
+![](/assets/2d-output.png)
+![](/assets/wire-model.png)
+```
+
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
 That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
