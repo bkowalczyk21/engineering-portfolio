@@ -26,7 +26,7 @@ export const blogListQuery = graphql`
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { template: { eq: "blog-post" } } }
-      limit: $limit
+      limit: 5
       skip: $skip
     ) {
       edges {
