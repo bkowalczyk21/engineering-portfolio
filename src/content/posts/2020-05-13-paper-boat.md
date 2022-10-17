@@ -12,8 +12,8 @@ featuredImage: /assets/vybe-logo-sized.jpg
 ![Vybe Homepage](/assets/vybe-home-surf.gif "Vybe Homepage")
 
 ```grid|2|Vybe Gifs!
-![]("/assets/vybe-home-surf.gif")
-![]"/assets/vybe.png")
+![](/assets/vybe-home-surf.gif)
+![](/assets/vybe.png)
 ```
 
 <div className="grids col-2 sm-2 lg-3">
