@@ -135,12 +135,7 @@ export const pageQuery = graphql`
         description
         featuredImage {
           childImageSharp {
-            gatsbyImageData(
-              width: 690,
-              height: 520
-              placeholder: BLURRED 
-              formats: [AUTO, WEBP, AVIF]
-              )
+            gatsbyImageData(layout: CONSTRAINED, width: 345, height: 260)
           }
         }
       }
