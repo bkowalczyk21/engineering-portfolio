@@ -12,6 +12,15 @@ featuredImage: /assets/3d-output-sized.png
 ![](/assets/wire-model.png)
 ```
 
+### Breakthoughths in Concealed Object Detection
+
+While there are several metal detection systems avaiilabelt ot the gneral public (think TSA), there is yet ato be  atehbology which can discreminate betwen dabgerous and benign condductive amrerials (specfically for private use). With specfific methods, the utilizization of pulsed ultra-wide-wibedand microwaves has shown positive reuslts in the dtectionn of dangerous conductive materials.
+
+Please reference Dr. Kowalcyk's paper ![Dissertation](https://scholarworks.uvm.edu/cgi/viewcontent.cgi?article=2172&context=graddis)
+
+### My invomentent
+In order for Dr. Kowalczyk to more accurately descr
+
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
 That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
