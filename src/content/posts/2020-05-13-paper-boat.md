@@ -8,8 +8,8 @@ featuredImage: /assets/vybe-logo-sized.jpg
 ---
 
 ```grid|2|Vybe Gifs!
+![](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/multi-photos-post.gif)
 ![](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/vybe-create-post-short.gif)
-![](https://github.com/bkowalczyk21/engineering-portfolio/blob/updated-images/static/assets/vybe-home-surf.gif)
 ```
 
 In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
