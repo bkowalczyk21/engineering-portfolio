@@ -7,10 +7,6 @@ description: sdasd
 featuredImage: /assets/3d-output-sized.png
 ---
 
-![2D Output](/assets/2d-output.png "2D Output")
-
-![Wire Model](/assets/wire-model.png "Wire Model")
-
 ```grid|2|Hone Antenna Outputs!
 ![](/assets/2d-output.png)
 ![](/assets/wire-model.png)
