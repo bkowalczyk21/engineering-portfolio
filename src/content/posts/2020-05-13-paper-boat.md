@@ -7,19 +7,10 @@ description: A revolutionary social media platform giving the user control of th
 featuredImage: /assets/vybe-logo-sized.jpg
 ---
 
-![Vybe Create Post](/assets/vybe-create-post-short.gif "Vybe Create Post")
-
-![Vybe Homepage](/assets/vybe-home-surf.gif "Vybe Homepage")
-
 ```grid|2|Vybe Gifs!
 ![](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/vybe-create-post-short.gif)
-![](https://github.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/vybe-home-surf.gif)
+![](https://github.com/bkowalczyk21/engineering-portfolio/blob/updated-images/static/assets/vybe-home-surf.gif)
 ```
-
-<div className="grids col-2 sm-2 lg-3">
-  <img src="/assets/vybe-home-surf.gif" width="600"/>
-  <img src="/assets/vybe-create-post-short.gif" width="600"/>
-</div>
 
 In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
 
