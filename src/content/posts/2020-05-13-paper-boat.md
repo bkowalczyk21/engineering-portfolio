@@ -5,7 +5,7 @@ slug: /character-design
 date: 2020-05-23 23:40
 description: A revolutionary social media platform giving the user control of their feeds
 featuredImage: /assets/vybe-filter.png
-titleImage: /assets/vybe-logo-sized.jpg
+titleImage: /assets/vybe-logo-title.png
 ---
 
 ```grid|2|Vybe Gifs!
