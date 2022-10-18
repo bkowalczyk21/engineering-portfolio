@@ -5,7 +5,7 @@ slug: /character-design
 date: 2020-05-23 23:40
 description: A revolutionary social media platform giving the user control of their feeds
 featuredImage: /assets/vybe-filter.png
-titleImage: /assets/vyve-logo-sized.jpg
+titleImage: /assets/vybe-logo-sized.jpg
 ---
 
 ```grid|2|Vybe Gifs!
@@ -24,5 +24,3 @@ As the current Software Contractor for Vybe, LLC, I continue to add new features
 1. Developing the News Feed
 2. Migrating and updatimg the back-end
 3. Implementing comnenting on user's postst and tagging them in yoru own.
-
-### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
