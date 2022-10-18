@@ -133,7 +133,7 @@ export const pageQuery = graphql`
         slug
         title
         description
-        featuredImage {
+        titleImage {
           childImageSharp {
             gatsbyImageData(layout: CONSTRAINED, width: 345, height: 260)
           }

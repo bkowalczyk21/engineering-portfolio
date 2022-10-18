@@ -5,6 +5,8 @@ slug: /gaming-extravaganza
 date: 2020-05-13 12:55
 description: Developing an iOS app for controlling settings via bluetooth on remote camera triggers for professional photography.
 featuredImage: /assets/bluetooth-sized.png
+titleImage: /assets/pw-logo.jpg
+
 ---
 
 ```grid|3|NR1 Screenhots!
