@@ -15,7 +15,7 @@ titleImage: /assets/pw-logo.jpg
 ![](/assets/pw-ota-update.png)
 ```
 
-As a part time devleoper for [PocketWizard](https://pocketwizard.com) I created a full-stack iOS
+As a part time devleoper for [*PocketWizard*](https://pocketwizard.com) I created a full-stack iOS
 application for controlling mode, frequency, and tamper settings on their latest radio trigger prototype over 
 Bluetooth Low Energy. Each trigger would be placed on professional cameras placed around anywhere within 
 miles given line of sight in order to capture some of the greatest sports, nature and masss event shots.

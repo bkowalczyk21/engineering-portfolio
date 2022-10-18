@@ -4,6 +4,20 @@ slug: /about
 title: About Bryce
 ---
 
+ ```grid|11|Skills!
+![](/assets/aws-logo-small.jpg)
+![](/assets/C-Sharp=small.jpg)
+![](/assets/gitlab-small.jpg)
+![](/assets/ISO_C++_Logo-small.jpg)
+![](/assets/J1939-small.jpg)
+![](/assets/nixos-logo-small.jpg)
+![](/assets/Qt_logo_small.jpg)
+![](/assets/ROS_logo_small.jpg)
+![](/assets/swift-og=small.jpg)
+![](/assets/Symbol-Linux-2.jpg)
+![](/assets/xcode-12-0g-smallsmall.jpg)
+```
+ 
  Welcome fellow software, mathematics and engineering enthusiastists!
 
  I'm Bryce Kowalczyk, a current Software Engineer at Applied Research Associates, Inc., Software Contractor at Vybe Social, LLC, and Colgate University CS/Mathematics alumni.
