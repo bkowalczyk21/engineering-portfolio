@@ -71,8 +71,8 @@ const Post = ({ data, pageContext }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
 
-  const Image = frontmatter.featuredImage
-    ? frontmatter.featuredImage.childImageSharp.gatsbyImageData
+  const Image = frontmatter.titleImage
+    ? frontmatter.titleImage.childImageSharp.gatsbyImageData
     : ""
   const { previous, next } = pageContext
 
@@ -133,9 +133,9 @@ export const pageQuery = graphql`
         slug
         title
         description
-        featuredImage {
+        titleImage {
           childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED, width: 345, height: 260)
+            gatsbyImageData(layout: FULL_WIDTH)
           }
         }
       }
