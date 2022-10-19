@@ -5,17 +5,18 @@ title: About Bryce
 ---
 
  ```grid|6|Skills!
-![](/assets/C-Sharp=small.jpg)
-![](/assets/gitlab-small.jpg)
-![](/assets/ISO_C++_Logo-small.jpg)
-![](/assets/nixos-logo-small.jpg)
-![](/assets/swift-og=small.jpg)
-![](/assets/xcode-12-og-small.jpg)
-![](/assets/aws-logo-small.jpg)
-![](/assets/J1939-small.jpg)
-![](/assets/Qt_logo_small.jpg)
-![](/assets/ROS_logo_small.jpg)
-![](/assets/Symbol-Linux-2.jpg)
+![](/assets/ISO_C++_Logo-circle.png)
+![](/assets/C-Sharp-circle.png)
+![](/assets/java-circle.png)
+![](/assets/swift-og-circle.png)
+![](/assets/nix-logo-circle.png)
+![](/assets/xcode-12-og-circle.png)
+![](/assets/aws-logo-circle.png)
+![](/assets/gitlab-circle.png)
+![](/assets/linux-circle.png)
+![](/assets/ros_logo_circle.png)
+![](/assets/Qt_logo_2016-circle.png)
+![](/assets/CAN-logo-circle.png)
 ```
  
  Welcome fellow software, mathematics and engineering enthusiastists!
