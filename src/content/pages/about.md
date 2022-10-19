@@ -10,11 +10,11 @@ title: About Bryce
 ![](/assets/java-circle.png)
 ![](/assets/swift-og-circle.png)
 ![](/assets/nix-logo-circle.png)
-![](/assets/xcode-12-og-circle.png)
+![](/assets/xcode-circle.png)
 ![](/assets/aws-logo-circle.png)
 ![](/assets/gitlab-circle.png)
 ![](/assets/linux-circle.png)
-![](/assets/ros_logo_circle.png)
+![](/assets/ros-logo-circle.png)
 ![](/assets/Qt_logo_2016-circle.png)
 ![](/assets/CAN-logo-circle.png)
 ```
