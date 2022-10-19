@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Social Media Under Your Control
+title: Revolutionary Social Media Under Your Control
 slug: /character-design
 date: 2020-05-23 23:40
 description: A revolutionary social media platform giving the user control of their feeds
