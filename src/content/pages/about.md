@@ -18,19 +18,47 @@ title: About Bryce
 ![](/assets/Qt_logo_2016-circle.png)
 ![](/assets/CAN-logo-circle.png)
 ```
- 
- Welcome fellow software, mathematics and engineering enthusiastists!
 
- I'm Bryce Kowalczyk, a current Software Engineer at Applied Research Associates, Inc., Software Contractor at Vybe Social, LLC, and Colgate University CS/Mathematics alumni.
+ **Welcome fellow software, mathematics and engineering enthusiastists!**
+
+ > I'm Bryce Kowalczyk, a current Software Engineer at Applied Research Associates, Inc. I also work on the side as a Software Contractor at Vybe Social, LLC. I studied Computer Science and Mathematics at Colgate University. 
+ 
+ While these days I find myself in the world of robotics (C++, ROS, Linux, NixOS and CAN), I make sure to give myself time to keep my Swift and Xcode skills up to date given my love for iOS development. My ARA job also demands occasional random projects involving Qt, Xamarin, C#, embedded systems and Docker.
+
+### Successes
+
+A couple things I am personally proud of are:
+1. Developing a Bluetooth iOS app from the ground up
+2. Debugging a complicated robotic system on the road in a high pressure environment with government PMs present
+3. Developing working code for a teleoperated CAT299D3 without the hardware present
+4. Becoming Linux CLI proficient
+5. My pero=sonability and humor which resulted in being a first-year presenter at ARA's Enhanced Leadership Conference
+6. Graduating Cum Laude in one of the hardest majors at a reknown university
+7. Graduating valedictorian from my high school
+
+### Background
 
  My passion for technlogy and the "hard" sciences have taken me down a paths from mobile application development to debugging firmware assembly code to replacing linear actuators in USG restricted areas and everything in between. I have had the pleasure of working with sales teams, electrical engineers, mechanical engineers, product managers, and even government officials. Some projects have involved learning brand new languages, debugging complex systems in high pressure envrionments and teaching new team members the ropes of our code bases. 
 
- These days the languages I use the most are Swift, C++, Java and C# but I occasionally get to dabble with Python still. Beyond that, I have been doused with Linux CLI, NixOS, Xamarin.iOS, ROS, XCode, Qt, Docker, AWS, CI/CD, CAN and Ubuntu. 
+ My ideal work environments are:
+ ```grid|2|Work Shots!
+![](/assets/pool-work.jpg)
+![](/assets/code-lunch.jpg)
+``` 
 
- The follwing is my inspiration for what I do.
+ I have been employed at Applied Research Asscoiates, Inc. for over a year noew and have worked on UIs for teleoperating robots, creating code for unmanned machines, enhancing iOS apps for collecting cone penetrometer data and everything between. I've worked closely with electrical engineers, mechincal enginers and floor technicians to get robots up and running.
+ 
+ Before that I worked at a small business for the two years as a junior software engineer. Specifically, I was tasked with creating a mobile application to accompany the latest line of products. I taught myself Swift and the necessary iOS libraries, frameworks and architectures to deliver all of the specified functionalities.
 
- ![Toys](/assets/code-lunch.jpg "Toys")
+### Other Passions
 
- A passionate Colgate University computer science and mathematics major with two years of software engineering experience. My technical and problem-solving skills make me an ideal software engineering candidate. I have coordinated across many facets of business, independently created applications, and taught myself new programming languages.
+When I'm not coding you can find me skiing, drumming, or golfing (depending on the season).
 
- Working at a small business for the last two years as a junior software engineer has given me ample exposure in collaborating with engineers and non-technical coworkers while still being a self-starter. Specifically, I was tasked with creating a mobile application to accompany the latest line of products. I taught myself Swift and the necessary iOS libraries, frameworks and architectures to deliver all of the specified functionalities. At the same time, I worked closely with the embedded systems engineer to nail down our utilization of the Bluetooth standard to deliver information and firmware updates between mobile devices and the product. The project also involved relaying timing, needed resources, and technical decisions to the company founder. 
+ ```grid|3|Hobbies!
+![](/assets/drumming-sized.png)
+![](/assets/golf-sized.png)
+![](/assets/ski-sized.png)
+``` 
+
+
+
