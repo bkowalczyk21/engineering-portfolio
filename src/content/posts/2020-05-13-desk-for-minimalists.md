@@ -12,7 +12,7 @@ titleImage: /assets/horn-antenna-setup.png
 
 While there are several metal detection systems avaiilabelt ot the gneral public (think TSA), there is yet ato be  atehbology which can discreminate betwen dabgerous and benign condductive amrerials (specfically for private use). With specfific methods, the utilizization of pulsed ultra-wide-wibedand microwaves has shown positive reuslts in the dtectionn of dangerous conductive materials.
 
- Please reference Dr. Kowalcyk's **[Dissertation](https://scholarworks.uvm.edu/cgi/viewcontent.cgi?article=2172&context=graddis)**
+ Please reference Dr. Kowalcyk's **[<u>Dissertation</u>](https://scholarworks.uvm.edu/cgi/viewcontent.cgi?article=2172&context=graddis)**
 
 ```grid|3|Hone Antenna Outputs!
 ![](/assets/2d-output.png)
