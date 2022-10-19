@@ -32,7 +32,7 @@ A couple things I am personally proud of are:
 2. Debugging a complicated robotic system on the road in a high pressure environment with government PMs present
 3. Developing working code for a teleoperated CAT299D3 without the hardware present
 4. Becoming Linux CLI proficient
-5. My pero=sonability and humor which resulted in being a first-year presenter at ARA's Enhanced Leadership Conference
+5. My personability and humor resulting in being a first-year presenter at ARA's Enhanced Leadership Conference
 6. Graduating Cum Laude in one of the hardest majors at a reknown university
 7. Graduating valedictorian from my high school
 
