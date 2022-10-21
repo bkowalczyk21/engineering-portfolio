@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "A colllection of Bryce Kowalczyk's software developemnt and engineering related projects",
     "siteUrl": "https://brycekengineering.com",
-    "image": "static/assets/profilepic.png",
-    "iconimage": "static/assets/profilepic.png"
+    "image": "/assets/profilepic.png",
+    "iconimage": "/assets/profilepic.png"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
