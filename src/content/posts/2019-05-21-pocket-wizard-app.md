@@ -1,8 +1,8 @@
 ---
 template: blog-post
 title: Bluetooth Solutions For Remote Photography
-slug: /gaming-extravaganza
-date: 2020-05-13 12:55
+slug: /pocket-wizard-app
+date: 2019-05-21 12:55
 description: Developing an iOS app for controlling settings via bluetooth on remote camera triggers for professional photography.
 featuredImage: /assets/Pocket_Wizard_Plus3.png
 titleImage: /assets/pw-logo.jpg

@@ -1,8 +1,8 @@
 ---
 template: blog-post
 title: Robotic Teleoperation; CATs, MRZRs and Beyond
-slug: /plant/bud
-date: 2020-05-13 12:37
+slug: /robotic-teleoperation
+date: 2021-08-03 12:37
 description: dfdfdfsf
 featuredImage: /assets/mrzr-smoke-sized.png
 titleImage: /assets/ara-robots.jpg

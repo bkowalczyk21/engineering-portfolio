@@ -1,8 +1,8 @@
 ---
 template: blog-post
 title: ConcoaNEC For Radiation Models
-slug: /minimalists-desk
-date: 2020-05-13 12:46
+slug: /cocoanec-radiation-model
+date: 2018-09-13 12:46
 description: sdasd
 featuredImage: /assets/3d-output-sized.png
 titleImage: /assets/horn-antenna-setup.png
