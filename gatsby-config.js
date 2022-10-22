@@ -52,6 +52,7 @@ module.exports = {
           options: {
             maxWidth: 1024,
             showCaptions: true,
+            markdownCaptions: true,
             linkImagesToOriginal: false,
             tracedSVG: true,
             loading: "lazy",

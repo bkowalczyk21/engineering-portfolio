@@ -8,19 +8,27 @@ featuredImage: /assets/mrzr-smoke-sized.png
 titleImage: /assets/ara-robots.jpg
 ---
 
-![Test Fixture](/assets/test-fixture.jpg "Test Fixture")
+## Getting Into Robotics
 
-![Bucket Loader](/assets/ara-bucket-loader.jpg "Bucket Loader")
+While I love my mobile apps and developing clean UIs, when you're offered the opportunity to develop robotics, _you take it._ I am currently updating our code for tele-operatiom of Polaris MRZR-Ds from Ubuntu into the Nixos world while making some updates along the way.
 
-![Robot Lineup](/assets/ara-robots.jpg "Robot Lineup")
+```grid|2|
+![Right](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/mrzr-autonomous.gif "<span style="color:#777777;"> Backseat of tele-operation! </span>")
+![Left](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/mrzr-backseat.gif "<span style="color:#777777;"> Autononous MRZR </span>")
+```
 
-While I love my mobile apps, when you're offered the opportunity to develop robotics you take it. As I was introduced to 
-**[<ins>ARA's</ins>](https://www.ara.com)** system it my responsiblity to devise unit tests and a bench-top system to ensure serial commands being sent from
-the vehicle controller's main CPU to were eventually sending safe CAN commands to critial actuators of the vehicle ater being passed through
-the controller's dual lock-step safety processor. Soon, after developing the ADAS UI for the C++ Qt appliaction for tele-opartion of an unnamed 
-platform, and the headin the debuggin of th eoveralll system I became one of the only engineers with knowledge across all facets of the system from sensor input, 
-JAUS and IOP interfaces, adaptive cruise algorithms, to CAN and GPIO output. Hence, I was slected to go out and prepapre the vehicle for a  
-demo for the Ground Vehicle Systems Center (GVSC). 
+## Autonmous Bucket Loaders
 
-In my most recent project I programmed the vehicle interface controller for a CAT299D3 Bucket Loader which receives JAUS commmands from 
-a seperate autonomous B-Kit or proprietary CAN messages froma hand-held controller.
+One of my most recent pojects at **[<ins>Applied Research Assicaites, Inc.</ins>](https://www.ara.com)** has been tailoring our robotics code base to conotrol a CAT 299D3 Bucket Loader. I created the Vehicle side controller which can receive both prorietary CAN messages from a private controller or IOP (Inter-Operability Standard) messages from a fully autonomous B-Kit and relay those commands to the tool, starter, and ingition relays, and pulse width modulators to properly control the steering, throttle, drive, power, tilt and lift of the machine.
+
+![CAT 299D3](/assets/cat299D3.jpeg <span style="color:#777777;"> "CAT 299D3 at work" </span>)
+
+## ADAS and Tele-operation Enabled HMMWVs
+
+Unfortunately this project is Controlled Unclassified Information so it is export controlled and thus I cannot divulgde too much information or show any cool GIFS. That being said, my involement in the project included developing the UI of the ADAS (Advanced Driver Assist) tele-operation control interface for the platform. As the only sfotware engineer willing to drive the HMMWV I was also responsible for much of the debugging process, leading to a comprehensive knowledge of the overal system; from ML algorithms detecting pedestrians to adaptive cruise algorthms to CAN hardware interfaces. Hence, I was selected travel onsite and get the vehicle ready for a demo with the USG's Ground Vehicle's Systems Center (GVSC).
+
+## Safety Processor Unit Tests
+
+![Test Fixture](/assets/test-fixture.jpg <span style="color:#777777;"> ""Safety Processor Test Fixture"" </span>)
+
+One of my first responsibilities at ARA was to devise a bench-top setup for unit testing thr safety processor on our vehicle interface controller. Critical commands commands sent from the vheicles main CPU are sent through a TI dual lock-step safety processor to ensure the comand can be executed in the current state. I created a mock set-up and sent valid and invalid serial commands ti the safety processor to ensure it was taking care of our edge cases cases correctly.
