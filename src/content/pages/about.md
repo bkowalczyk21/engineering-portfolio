@@ -61,8 +61,8 @@ When I'm not coding you can find me skiing, drumming, or golfing (depending on t
 
  ```grid|3|Hobbies!
 ![](/assets/drumming-sized-3.png)
-![](/assets/golf-size-2.png)
-![](/assets/ski-size2.png)
+![](/assets/golf-sized-2.png)
+![](/assets/ski-sized-2.png)
 ``` 
 
 
