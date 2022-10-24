@@ -9,18 +9,27 @@ titleImage: /assets/binary-system-title.png
 ---
 
 ### Eyes on the stars
-As youngster I always had my eyes on the skies. That's where all the big questions are; Why are we here? Whats before/outside the universe? Why make all this space with us poor matter so far apart? 
+As youngster I always had my eyes on the skies. Living up in the mountains of Vermont, I grew up with a view of the night sky many are not so lucky to see anymore given the spread of light pollution.
+
+_The sky:_ That's where all the big questions are: 
+- Why are we here? 
+- What is before/outside our universe? 
+- Why make all this space with light matter beings so far from anything? 
+- Do we exapnd forever or is it a consant pop (Big Bang) and retract? 
+Anyways, the questions go on forever and I guess for now I am leaving it to the physicists (although Physics/Astronomy was my original major and one day I hope I can revisit this science).
+
+**But**, I did get some time exploring the sky.
 
 ### Applying transformations to light curves
-Hence, as a budding high school senior I reached out to the Telescope Specialist at Middlebury college and he set me to work confirming the eclipe period of the binary star system UX Urae Majoris. I used curve-folding and tranformaion software on light curves to come up with the most accurate ecplise periods of the rapidly rotating star system. 
+As a budding high school senior I reached out to the Telescope Specialist at Middlebury College and he set me to work confirming the eclipe period of the binary star system UX Urae Majoris. I used curve-folding and tranformaion software on time-series collected light curves to come up with findings on the frequency of eclipses of the binary star system. My findings matched exisitng literature of that of the Center for Backyard Astrophysics.
 
-Binary star systems such as UX UMa are rare since their orbital plane lies in our line of sight giving us a a unique opportunity to study them. In the end my finding further backed up current theories on the nature of of the UX UMa star system.
-
-```grid|2|UX UMa Screenhots!
-![](/assets/uxma-curve-fold.png)
-![](/assets/uxma-transformations.png)
-![](/assets/uxma-conclusion.png)
+```grid|2|
+![<span style="color:#777777;"> Lomb-Scargle Periodogram to Detect Eclipse Periodicity </span>](/assets/uxma-conclusion.png)
+![<span style="color:#777777;"> Light Curve Folded Over Detected Periodicty Peak </span>](/assets/uxma-curve-fold.png)
 ```
+Binary star systems such as UX Urase Majoris are rare since their orbital plane lies in our line of sight giving us a a unique opportunity to study them. However, the neatest attribute of UX UMa is the fact that it is made up of white dwarf and a donor star. The donor star is constantly feeding gas to this ball of electron-degenerate matter creating a gorgeous accretion disk around it. The retrograde nodal precesssion of this accretions disk creates a second periodicticty in the light curve which **we can study!**
 
-
-
+```grid|2|
+![<span style="color:#777777;"> Accretion Disk Precession Period </span>](/assets/accretion-wobble.jpg)
+![<span style="color:#777777;"> White Dwarf Binary Star System </span>](/assets/binary-star-white.png)
+```

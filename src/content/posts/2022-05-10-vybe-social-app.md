@@ -9,8 +9,8 @@ titleImage: /assets/vybe-logo-title.png
 ---
 
 ```grid|2|
-![](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/vybe-create-post-short.gif <span style="color:#777777;"> Creating a Post! </span>)
-![](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/multi-photos-post.gif "<span style="color:#777777;"> Implementing Multiple Photos Feature (Xcode Simulation)</span>")
+![<span style="color:#777777;"> Creating a Post! </span>](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/vybe-create-post-short.gif)
+![<span style="color:#777777;"> Implementing Multiple Photos Feature (Xcode Simulation)</span>](https://raw.githubusercontent.com/bkowalczyk21/engineering-portfolio/updated-images/static/assets/multi-photos-post.gif)
 ```
 
 ## What Seprates Vybe
