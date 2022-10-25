@@ -23,13 +23,16 @@ Anyways, the questions go on forever and I guess for now I am leaving it to the 
 ### Applying transformations to light curves
 As a budding high school senior I reached out to the Telescope Specialist at Middlebury College and he set me to work confirming the eclipe period of the binary star system UX Urae Majoris. I used curve-folding and tranformaion software on time-series collected light curves to come up with findings on the frequency of eclipses of the binary star system. My findings matched exisitng literature of that of the Center for Backyard Astrophysics.
 
-```grid|2|<span style="color:#777777;"> Lomb-Scargle Periodogram and Light Curve Folded Over Detected Eclipse Periodicity </span>
+```grid|2|
 ![<span style="color:#777777;"> Lomb-Scargle Periodogram to Detect Eclipse Periodicity </span>](/assets/uxma-conclusion.png)
 ![<span style="color:#777777;"> Light Curve Folded Over Detected Periodicty Peak </span>](/assets/uxma-curve-fold.png)
 ```
+<center><span style="color:#777777;"> Lomb-Scargle Periodogram and Light Curve Folded Over Detected Eclipse Periodicity </span></center>
+
 Binary star systems such as UX Urase Majoris are rare since their orbital plane lies in our line of sight giving us a a unique opportunity to study them. However, the neatest attribute of UX UMa is the fact that it is made up of white dwarf and a donor star. The donor star is constantly feeding gas to this ball of electron-degenerate matter creating a gorgeous accretion disk around it. The retrograde nodal precesssion of this accretions disk creates a second periodicticty in the light curve which **we can study!**
 
-```grid|2|<span style="color:#777777;"> UX UMa Accretion Disk Precession Period with White Dwarf Binary System Artistic Rendering </span>
+```grid|2|
 ![<span style="color:#777777;"> Accretion Disk Precession Period </span>](/assets/accretion-wobble.jpg)
 ![<span style="color:#777777;"> White Dwarf Binary Star System </span>](/assets/binary-star-white.png)
 ```
+<center><span style="color:#777777;"> UX UMa Accretion Disk Precession Period with White Dwarf Binary System Artistic Rendering </span></center>

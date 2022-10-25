@@ -20,11 +20,12 @@ Working at PocketWizard I created a **full-stack iOS application** for controlli
 - Of course I also had to delve deep into the CoreBLE library and learn quite a bit about the relationship between mobile applicaions and microcontroller peripherals.
 - I got to express my artistic side and develop a couple Adobe XD mock-ups and edit images in GIMP 
 
-```grid|3|<span style="color:#777777;"> Homepage, BLE Control and OTA Update Pages </span>
+```grid|3|
 ![<span style="color:#777777;"> Device List Homepage </span>](/assets/pw-homepage.jpeg)
 ![<span style="color:#777777;"> Device BLE Control </span>](/assets/pw-control.jpeg)
 ![<span style="color:#777777;"> Over-the-Air Firmware Update </span>](/assets/pw-ota-update.png)
 ```
+<center><span style="color:#777777;"> Homepage, BLE Control and OTA Update Pages </span></center>
 
 ### This doesn't sound fullstack? ###
 
