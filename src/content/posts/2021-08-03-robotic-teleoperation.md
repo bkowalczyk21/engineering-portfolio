@@ -16,7 +16,7 @@ While I love my mobile apps and developing robust UIs, when you're offered the o
 ![<span style="color:#777777;"> Backseat of Teleoperation! </span>](https://github.com/bkowalczyk21/engineering-portfolio/blob/improve-pages/static/assets/mrzr-autonomous.gif?raw=true)
 ![<span style="color:#777777;"> Autononous MRZR </span>](https://github.com/bkowalczyk21/engineering-portfolio/blob/improve-pages/static/assets/mrzr-backseat.gif?raw=true)
 ```
-<span style="color:#777777;"> MRZR Teleoperation </span>
+<center><span style="color:#777777;"> MRZR Teleoperation </span></center>
 
 ## Autonmous Bucket Loaders
 
