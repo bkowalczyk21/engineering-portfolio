@@ -12,7 +12,7 @@ titleImage: /assets/ara-robots.jpg
 
 While I love my mobile apps and developing robust UIs, when you're offered the opportunity to develop robotics, _you take it!_ While I've updated a WPF OCU or Xamarin mobile application from time to time, my current focus is working with the code base resposnsible for the control of electronics and actuators on a range of unmanned vehicles from MRZRs to CATs.
 
-```grid|2|
+```grid|2|<span style="color:#777777;"> MRZR Teleoperation </span>
 ![<span style="color:#777777;"> Backseat of Teleoperation! </span>](https://github.com/bkowalczyk21/engineering-portfolio/blob/improve-pages/static/assets/mrzr-autonomous.gif?raw=true)
 ![<span style="color:#777777;"> Autononous MRZR </span>](https://github.com/bkowalczyk21/engineering-portfolio/blob/improve-pages/static/assets/mrzr-backseat.gif?raw=true)
 ```

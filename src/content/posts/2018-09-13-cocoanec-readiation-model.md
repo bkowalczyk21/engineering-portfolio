@@ -19,7 +19,7 @@ With specfific methods, the utilizization of pulsed ultra-wideband microwaves ha
 
 ### My Invomentent
 
-```grid|2|
+```grid|2|<span style="color:#777777;"> Wire-Grid Model of Two Interacting Horn Antennas and Corresponding 3D Antenna Pattern Output </span>
 ![<span style="color:#777777;"> CocoaNEC Wire-Grid Model of Two Interacting Horn Antennas </span>](/assets/horn-grid.png)
 ![<span style="color:#777777;"> Corresponding 3D Antenna Pattern Output </span>](/assets/horn-3d-sized.png)
 ```
@@ -31,7 +31,7 @@ In order for Dr. Kowalczyk to further corroborate the breakthrough in his findin
  
  If the field signal amplitude were solely due to the frequency of the radiated field and the dimensions of the obstructive sample, it would be expected that the observed reduction in field signal loss would increase continuously with frequency due to lensing effects. Instead, **signal gain was recorded!**
 
-```grid|2|
+```grid|2|<span style="color:#777777;"> Azimuth and Elevation Antenna Model Output </span>
 ![<span style="color:#777777;"> Azimuth Antenna Output of the Model </span>](/assets/horn-azimuth.png)
 ![<span style="color:#777777;"> Elevation Antenna Output of the Model </span>](/assets/horn-elevation.png)
 ```
