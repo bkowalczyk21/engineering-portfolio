@@ -25,6 +25,7 @@ Working at PocketWizard I created a **full-stack iOS application** for controlli
 ![<span style="color:#777777;"> Device BLE Control </span>](/assets/pw-control.jpeg)
 ![<span style="color:#777777;"> Over-the-Air Firmware Update </span>](/assets/pw-ota-update.png)
 ```
+<center><span style="color:#777777;"> Homepage, BLE Control and OTA Update Pages </span></center>
 
 ### This doesn't sound fullstack? ###
 
