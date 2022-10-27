@@ -20,7 +20,7 @@ Anyways, the questions go on forever and I guess for now I am leaving it to the 
 
 **But**, I did get some time exploring the sky.
 
-### Applying Transformations anf Folds to Light Curves
+### Applying Transformations and Folds to Light Curves
 As a budding high school senior I reached out to Telescope Specialist at Middlebury College Jonathan Kemp and he set me to work confirming the eclipe period of the binary star system UX Urae Majoris knowing I would find a neat surprise. 
 - I used curve-folding and tranformaion software on time-series collected light curves to come up with findings on the frequency of eclipses of the binary star system. 
 - My findings matched exisitng literature of that of the Center for Backyard Astrophysics.
