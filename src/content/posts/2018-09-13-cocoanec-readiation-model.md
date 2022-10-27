@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: ConcoaNEC For Radiation Models
+title: CocoaNEC For Radiation Models
 slug: /cocoanec-radiation-model
 date: 2018-09-13 12:46
 description: sdasd
@@ -8,16 +8,16 @@ featuredImage: /assets/3d-output-sized.png
 titleImage: /assets/horn-antenna-setup.png
 ---
 
-### Breakthoughths in Concealed Object Detection
+### Breakthroughs in Concealed Object Detection
 
 While there are several metal detection systems available (think TSA), many are still expensive and infrastructurally demanding. There is yet to be a lightweight technology which can discreminate betwen dangerous and benign conductive materials (specfically for private use). 
 
-With specfific methods, the utilizization of pulsed ultra-wideband microwaves has shown positive reuslts in shape detection of conductive materials.
+With specfific methods, the utilizization of pulsed ultra-wideband microwaves has shown positive results in shape detection of conductive materials.
 
  Please reference **[<ins>Dr. Kowalcyk's Dissertation</ins>](https://scholarworks.uvm.edu/cgi/viewcontent.cgi?article=2172&context=graddis)**
 
 
-### My Invomentent
+### My Involement
 
 ```grid|2|
 ![<span style="color:#777777;"> CocoaNEC Wire-Grid Model of Two Interacting Horn Antennas </span>](/assets/horn-grid.png)
