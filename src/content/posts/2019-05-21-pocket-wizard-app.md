@@ -25,16 +25,16 @@ Working at PocketWizard I created a **full-stack iOS application** for controlli
 ![<span style="color:#777777;"> Device BLE Control </span>](/assets/pw-control.jpeg)
 ![<span style="color:#777777;"> Over-the-Air Firmware Update </span>](/assets/pw-ota-update.png)
 ```
-<center><span style="color:#777777;"> Homepage, BLE Control and OTA Update Pages </span></center>
+<center><span style="color:#777777;"> Homepage, Radio Control and OTA Update Pages </span></center>
 
 ### This doesn't sound fullstack? ###
 
 The neatest feature implemeted though was the over-the-air (OTA) firmware updates:
 
 1. Firware updates improving reliablity, range and performance of the remote triggers could be uploaded into an AWS S3 bucket by our embedded systems engineer.
-2. The mobile application would then make occaisianal queries to determine if there was a new firmware update. If so, the user would be alerted and with agreement, the image was pulled from the AWS bucket.
-3. The iOS application would send commands to the trigger microcontroller to switch into apploader mode.
-4. Keeping the old firmware image in the upper half of the microcontroller's memory to avoid a brick, the iOS application would deliver the new image packet-by-packet in a closed-loop fashion with a responsive UI indicating the updates progress.
+2. The mobile application would then make occaisianal queries to determine if there was a new firmware update. If so, the user would be alerted and, with agreement, the image was pulled from the AWS bucket.
+3. The iOS application would send commands to the trigger microcontroller to switch into an apploader mode.
+4. Keeping the old firmware image in the upper half of the microcontroller's memory to avoid a brick, the iOS application would deliver the new image packet-by-packet in a closed-loop fashion with a responsive UI indicating the update's progress.
 5. After the update was completed, a check would be run to ensure a clean image was received and then the old image was deleted.
 
-**Disclaimer** Unfortunately, during this time COVID-19 hit reducing company budget for new projects and I also found a new job thus this product never made it to production. 
+**Disclaimer:** Unfortunately, during this time COVID-19 hit reducing company budget for new projects and I also found a new job thus this product never made it to production. 
