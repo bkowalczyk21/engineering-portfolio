@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-While currently specializing in robotics development for autonomous and tele-operated vehicles at Applied Reseaerch Associates, Inc., he also as serves as the Technical Contractor for the Vybe Social, LLC iOS app.
+While currently specializing in robotics development for autonomous and teleoperated vehicles at Applied Reseaerch Associates, Inc., he also serves as the Technical Contractor for the Vybe Social, LLC iOS app.
