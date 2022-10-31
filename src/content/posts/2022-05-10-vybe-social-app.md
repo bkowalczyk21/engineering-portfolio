@@ -14,16 +14,16 @@ titleImage: /assets/vybe-logo-title.png
 ```
 <center><span style="color:#777777;"> Post Creation And Homepage </span></center>
 
-## What Seprates Vybe
+## What Separates Vybe
 
-Every mainstream social media platoform comes out with a tailored feed based on what they think is best for you. I will give credit to their almagamations of state-of-the-art machine learning algorithnms, but their uninhibited usage of a user's every move can become **intrusive!** Furthermore, these algorithms pigeonhole content, leading users to a believe they are a type of person they are not. 
+Every mainstream social media platform comes out with a tailored feed based on what they think is best for you. I will give credit to their amalgamations of state-of-the-art machine learning algorithms, but their uninhibited usage of a user's every move can become **intrusive!** Furthermore, these algorithms pigeonhole content, leading users to a believe they are a type of person they are not. 
 
 Vybe turns the tables, letting user's _control their media feed_ and disperse content to populations excited about that category of media. 
 
 Some exciting features:
  - Pick and choose the type of posts you would like to see
  - Social media and news feeds all in one platform
- - Media categories updated regurarly
+ - Media categories updated algorithms
  - Zero malicious data collection
 
 ## **[<ins> Download Vybe</ins>](https://apps.apple.com/us/app/vybe-social/id1574283636)** now!

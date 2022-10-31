@@ -10,14 +10,14 @@ titleImage: /assets/pw-logo.jpg
 
 ## Quick PocketWizard Overview
 
-**[<ins>PocketWizard</ins>](https://pocketwizard.com)** creates radios which allow for the wireless control and synchronoization of cameras, flash lighting and light meters--perfect for sports, nature, event photography and much more. Their radio's connect to a wide variety of professional cameras allowing a photgrapher to trigger captures from several devices across long distances.
+**[<ins>PocketWizard</ins>](https://pocketwizard.com)** creates radios which allow for the wireless control and synchronization of cameras, flash lighting and light meters--perfect for sports, nature, event photography and much more. Their radio's connect to a wide variety of professional cameras allowing a photographer to trigger captures from several devices across long distances.
 
-## Controlling Camera Trigger Settings Over Bluetoth
+## Controlling Camera Trigger Settings Over Bluetooth
 
 Working at PocketWizard I created a **full-stack iOS application** for controlling the mode (flash vs trigger), radio frequency, and tamper settings on their latest radio trigger prototype over Bluetooth Low Energy. 
 
 - I learned Swift and became a master with XCode's Interface Builder and UIKit Core (although I look forward to the mass adoption of SwiftUI).
-- Of course I also had to delve deep into the CoreBLE library and learn quite a bit about the relationship between mobile applicaions and microcontroller peripherals.
+- Of course I also had to delve deep into the CoreBLE library and learn quite a bit about the relationship between mobile applications and microcontroller peripherals.
 - I got to express my artistic side and develop a couple Adobe XD mock-ups and edit images in GIMP 
 
 ```grid|3|
@@ -29,11 +29,11 @@ Working at PocketWizard I created a **full-stack iOS application** for controlli
 
 ### This doesn't sound fullstack? ###
 
-The neatest feature implemeted though was the over-the-air (OTA) firmware updates:
+The neatest feature implemented though was the over-the-air (OTA) firmware updates:
 
-1. Firware updates improving reliablity, range and performance of the remote triggers could be uploaded into an AWS S3 bucket by our embedded systems engineer.
-2. The mobile application would then make occaisianal queries to determine if there was a new firmware update. If so, the user would be alerted and, with agreement, the image was pulled from the AWS bucket.
-3. The iOS application would send commands to the trigger microcontroller to switch into an apploader mode.
+1. Firmware updates improving reliability, range and performance of the remote triggers could be uploaded into an AWS S3 bucket by our embedded systems engineer.
+2. The mobile application would then make occasional queries to determine if there was a new firmware update. If so, the user would be alerted and, with agreement, the image was pulled from the AWS bucket.
+3. The iOS application would send commands to the trigger microcontroller to switch into an app-loader mode.
 4. Keeping the old firmware image in the upper half of the microcontroller's memory to avoid a brick, the iOS application would deliver the new image packet-by-packet in a closed-loop fashion with a responsive UI indicating the update's progress.
 5. After the update was completed, a check would be run to ensure a clean image was received and then the old image was deleted.
 
